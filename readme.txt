@@ -1,0 +1,3 @@
+- The CNN model determines the difficulty (low, medium, high) of the job from the provided image
+- The ANN model uses that difficulty along other variables to estimate the price of a service
+- The images used to train the CNN models where generated using the StableDiffusionPipeline library
